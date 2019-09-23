@@ -32,6 +32,6 @@ next go to # Test Numbers
 add your desired mobile number and you will receive test message to this number
 ```
 
-Tutorial link: 
+Tutorial youtube link:
 
 [![Laravel SMS with Nexmo](https://img.youtube.com/vi/Kh_xZkAYqr8/0.jpg)](https://www.youtube.com/watch?v=Kh_xZkAYqr8) 
