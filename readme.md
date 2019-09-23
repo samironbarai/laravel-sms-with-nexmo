@@ -16,7 +16,7 @@ $ composer install
 
 3. Create and setup .env file
 ```
-make a copy of .env.example and rename to .env
+$ copy .env.example .env
 $ php artisan key:generate
 ```
 
