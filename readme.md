@@ -33,4 +33,4 @@ add your desired mobile number and you will receive test message to this number
 ```
 
 Tutorial link: 
-[![https://i9.ytimg.com/vi/Kh_xZkAYqr8/mqdefault.jpg?time=1569238191382&sqp=CIzXouwF&rs=AOn4CLCGFAIGBXokufIJSX5unKndAUNSQg](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Kh_xZkAYqr8) 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Kh_xZkAYqr8/0.jpg)](https://www.youtube.com/watch?v=Kh_xZkAYqr8) 
