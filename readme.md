@@ -10,7 +10,7 @@ https://github.com/samironbarai/laravel-sms-with-nexmo
 
 2. Install composer packages
 ```
-cd laravel-sms-with-nexmo
+$ cd laravel-sms-with-nexmo
 $ composer install
 ```
 
@@ -22,7 +22,7 @@ $ php artisan key:generate
 
 4. Install Nexmo Package for Laravel 
 ```
-composer require nexmo/laravel
+$ composer require nexmo/laravel
 ```
 
 5. Create an account at https://www.nexmo.com
