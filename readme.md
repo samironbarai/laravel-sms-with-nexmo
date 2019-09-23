@@ -18,7 +18,6 @@ $ composer install
 ```
 make a copy of .env.example and rename to .env
 $ php artisan key:generate
-put database credentials in .env file
 ```
 
 4. Install Nexmo Package for Laravel 
